@@ -4,9 +4,9 @@ UCSD-SD-FSF-PT-03-2021-U-C-MW
 
 # Github repository and deployed app
 
-[GitHub link]( )
+[GitHub link](https://github.com/djony88/18_Fitness_Tracker)
 
-[Deployed app] ( )
+[Deployed app] (https://secure-bastion-71130.herokuapp.com/)
 
 # Requirements:
 
